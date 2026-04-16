@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43bfdf7236ca4383827df654afc89e68, type: 3}
+  m_Name: ConstructionVisuals
+  m_EditorClassIdentifier: 
+  _gridCellHighlightPrefab: {fileID: 11400000, guid: ea7bf931155e4d57a3f409267b773eba, type: 3}
+  _ghostValidMaterial: {fileID: 2100000, guid: cee10e1c10c1483f831593857cfe1c6f, type: 2}
+  _ghostInvalidMaterial: {fileID: 2100000, guid: afec24eb1268421493710800ce550082, type: 2}
+  _gridHighlightValidMaterial: {fileID: 2100000, guid: e0825ffb666a4f7196d6be661ad3fabb, type: 2}
+  _gridHighlightInvalidMaterial: {fileID: 2100000, guid: d491d743d038455b8e54bca0d46da2a0, type: 2}
+  _selectionModelPrefab: {fileID: 919132149155446097, guid: 78a66a975c1aabf4dab9d40b242da911, type: 3}

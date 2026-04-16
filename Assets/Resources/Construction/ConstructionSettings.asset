@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a28e4f756054f38a6d1320c3391d976, type: 3}
+  m_Name: ConstructionSettings
+  m_EditorClassIdentifier: 
+  _catalog: {fileID: 11400000, guid: e340636f6a684c59967a90eef627e524, type: 2}
+  _economy: {fileID: 11400000, guid: c09e6e24a2304bcbac5c2b3751672319, type: 2}
+  _layout: {fileID: 11400000, guid: ae0363f7224f4cd5bf47202e7efb28d5, type: 2}
+  _scene: {fileID: 11400000, guid: 89b7514e87e7471f950dfae0c8969efb, type: 2}
+  _visuals: {fileID: 11400000, guid: ff54ed02e0bc461684ff77cc6174d254, type: 2}
