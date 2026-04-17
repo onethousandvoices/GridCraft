@@ -36,9 +36,16 @@ GridCraft is a Unity 6 grid-based building prototype with touch-first placement,
 
 ## How To Run
 
+Option 1:
+
 1. Open the project in `Unity 6.0.59f2`.
 2. Open the scene `Assets/Scenes/SampleScene.unity`.
 3. Enter `Play Mode`.
 4. In the bottom catalog, start dragging a building card onto the playfield.
 5. Release the card over the grid and use `Rotate`, `Confirm`, or `Cancel` when needed.
 6. For full validation of the current UX, use touch input because the active placement pointer is updated through `EnhancedTouch`.
+
+Option 2:
+
+1. Download `build.apk` from the [Build release](https://github.com/onethousandvoices/GridCraft/releases/tag/Build).
+2. Install and run it on an Android device.
